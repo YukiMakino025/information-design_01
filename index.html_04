@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>女子大生片付けサイト</title>
+</head>
+<body>
+  <div id="container">
+    <header>
+      <h1>マインド</h1>
+    </header>
+    <main>
+      <section>
+        <article>
+          メリット
+        </article>
+        <article>
+          片付けの考え方
+        </article>
+      </section>
+
+    </main>
+    <footer>
+      &copy; http://www.example.com
+    </footer>
+  </div>
+</body>
+</html>
