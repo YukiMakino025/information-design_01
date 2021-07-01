@@ -58,7 +58,7 @@ nav {
   }
 
     article{
-      text-aline:center
+      text-aline:center;
       min-height: 10rem;
       padding: 1rem;
       margin-bottom: 2rem;
