@@ -35,13 +35,10 @@ nav {
   flex: 1;
   padding: 3rem ;
   background: #FFFDED;
-
+  line_teat{
+    line-height: 30px;
+  }
 }
-
-line_teat{
-  line-height: 30px;
-}
-
   nav ul{
     display: contents;
     flex-direction: row;
@@ -68,19 +65,6 @@ line_teat{
       color:#8489B6;
     }
 
-.koramu {
-  display: flex;
-  flex-direction: row;
-}
-.picture {
-  flex:1;
-}
-.picture img {
-  width:100%;
-}
-.text {
-  flex:3;
-}
 
 footer {
   padding: 2rem 3rem;
